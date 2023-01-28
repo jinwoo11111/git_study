@@ -2,3 +2,4 @@
 ## Git & GitHub  
 
 - 소스트리로 Commit
+- 디테일 페이지 추가
