@@ -1,4 +1,4 @@
 # 2023년 신입사원 공동교육
 ## Git & GitHub  
 
-- TEST1
+- 소스트리로 Commit
