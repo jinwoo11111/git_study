@@ -4,3 +4,4 @@
 - 소스트리로 Commit
 - 디테일 페이지 추가
 - 브랜치 추가
+- pull request
